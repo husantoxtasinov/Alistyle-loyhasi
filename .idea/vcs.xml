@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py/Alistyl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/py/Alistyle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py/Alistyle-loyhasi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py/Alistyle-loyhasi-github" vcs="Git" />
   </component>
 </project>
